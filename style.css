@@ -1393,6 +1393,18 @@ transition: all 0.5s;
   text-transform: uppercase;
 }
 
+#faq{
+  margin-top: 77px;
+}
+
+#faq p{
+  padding: 20px;
+}
+
+#faq a:hover {
+  color: #06d0d8;
+}
+
 #blogArchive{
   float: left;
   display: inline;
