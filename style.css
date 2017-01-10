@@ -1397,8 +1397,24 @@ transition: all 0.5s;
   margin-top: 77px;
 }
 
+#faq  h2 {
+  /*background: none repeat scroll 0 0 #ffffff;*/
+  background: none repeat scroll 0 0 #f0f0f0;
+  color: #6e6e6e;
+  display: inline-block;
+  font-weight: bold;
+  margin-top: 25px;
+  /*padding: 0 80px;*/
+  position: relative;
+  z-index: 5;
+  font-size: 35px;
+  margin-bottom: 15px;
+}
+
 #faq p{
   padding: 20px;
+  font-size: 20px;
+  color: #6E6E6E;
 }
 
 #faq a:hover {
