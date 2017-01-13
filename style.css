@@ -1374,7 +1374,7 @@ transition: all 0.5s;
   font-size: 18px;
 }
 #imgbanner {
-  background-image: url("img/submit-photos.jpg");
+  background-image: url("img/slider/slider1.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   display: inline;
@@ -1394,7 +1394,7 @@ transition: all 0.5s;
 }
 
 #faq{
-  margin-top: 77px;
+  /*margin-top: 77px;*/
 }
 
 #faq  h2 {
