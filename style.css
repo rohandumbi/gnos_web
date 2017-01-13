@@ -1393,6 +1393,18 @@ transition: all 0.5s;
   text-transform: uppercase;
 }
 
+#imgbanner h4{
+  color: #fff;
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#imgbanner span{
+  color: #06d0d8;
+}
+
 #faq{
   /*margin-top: 77px;*/
 }
