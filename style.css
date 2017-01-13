@@ -378,7 +378,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 }
 .slider_caption > h2 {
   color: #fff;
-  font-size: 50px;
+  font-size: 72px;
   font-weight: 800;
   line-height: 50px;
   text-transform: uppercase;
@@ -387,6 +387,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 }
 .slider_caption > h2 span{
   font-weight: normal;
+}
+.slider_caption > h4 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 50px;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  margin-bottom: 18px;
 }
 .slider_caption>p{
   color: #fff;
