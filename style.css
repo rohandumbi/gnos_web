@@ -265,6 +265,10 @@ img{
   font-weight: bold;
   margin-top: 10px;
 }
+
+#slogan{
+  color: #06d0d8;
+}
 .navbar-brand span{
   text-transform: uppercase;
 }
@@ -366,6 +370,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
   left: 0px;
   top: 0px;    
   overflow: hidden;
+  height: 650px !important;
 }
 .slider_caption {
   left: 0;
@@ -1383,7 +1388,7 @@ transition: all 0.5s;
   font-size: 18px;
 }
 #imgbanner {
-  background-image: url("img/slider/slider1.jpg");
+  background-image: url("img/banner.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   display: inline;
